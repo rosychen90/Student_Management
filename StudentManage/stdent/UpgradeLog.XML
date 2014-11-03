@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="stdent">
+</Property><Property Name="解决方案文件" Value="C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\stdent.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\stdent.suo">
+</Property><Property Name="Date" Value="Sunday, November 2, 2014">
+</Property><Property Name="Time" Value="18:11 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="stdent.sln" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent.sln">
+</Event><Event ErrorLevel="0" Project="" Source="stdent.suo" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent.suo">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\stdent.csproj" Description="项目文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\stdent.csproj">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\FormCheckAdmin.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\FormCheckAdmin.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\FormCheckAdmin.Designer.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\FormCheckAdmin.Designer.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\ManagerForm.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\ManagerForm.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\ManagerForm.Designer.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\ManagerForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\LoginForm.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\LoginForm.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\LoginForm.Designer.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\LoginForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\Program.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\Program.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentCourseDataSet1.Designer.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentCourseDataSet1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentcourseDataSet3.Designer.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentcourseDataSet3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentInforDataSet.Designer.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentInforDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentScoreDataSet.Designer.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentScoreDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentScoreDataSet1.Designer.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentScoreDataSet1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentSystemDataSet.Designer.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentSystemDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentSystemDataSet1.Designer.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentSystemDataSet1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentSystemDataSet2.Designer.cs" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentSystemDataSet2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\app.config" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\app.config">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentCourseDataSet1.xsc" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentCourseDataSet1.xsc">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentCourseDataSet1.xsd" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentCourseDataSet1.xsd">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentCourseDataSet1.xss" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentCourseDataSet1.xss">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentcourseDataSet3.xsc" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentcourseDataSet3.xsc">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentcourseDataSet3.xsd" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentcourseDataSet3.xsd">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentcourseDataSet3.xss" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentcourseDataSet3.xss">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentInforDataSet.xsc" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentInforDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentInforDataSet.xsd" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentInforDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentInforDataSet.xss" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentInforDataSet.xss">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentScoreDataSet.xsc" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentScoreDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentScoreDataSet.xsd" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentScoreDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentScoreDataSet.xss" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentScoreDataSet.xss">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentScoreDataSet1.xsc" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentScoreDataSet1.xsc">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentScoreDataSet1.xsd" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentScoreDataSet1.xsd">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentScoreDataSet1.xss" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentScoreDataSet1.xss">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentSystemDataSet.xsc" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentSystemDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentSystemDataSet.xsd" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentSystemDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentSystemDataSet.xss" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentSystemDataSet.xss">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentSystemDataSet1.xsc" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentSystemDataSet1.xsc">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentSystemDataSet1.xsd" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentSystemDataSet1.xsd">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentSystemDataSet1.xss" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentSystemDataSet1.xss">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentSystemDataSet2.xsc" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentSystemDataSet2.xsc">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentSystemDataSet2.xsd" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentSystemDataSet2.xsd">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\studentSystemDataSet2.xss" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\studentSystemDataSet2.xss">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\FormCheckAdmin.resx" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\FormCheckAdmin.resx">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\LoginForm.resx" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\LoginForm.resx">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\ManagerForm.resx" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\ManagerForm.resx">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\Backup\stdent\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\stdent.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="stdent" Source="stdent\stdent.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="stdent.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="stdent.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="stdent" Source="stdent\stdent.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\stdent.LoginForm.resources
+obj\Debug\stdent.ManagerForm.resources
+obj\Debug\stdent.Properties.Resources.resources
+obj\Debug\stdent.csproj.GenerateResource.Cache
+bin\Debug\stdent.exe.config
+bin\Debug\stdent.exe
+bin\Debug\stdent.pdb
+obj\Debug\stdent.exe
+obj\Debug\stdent.pdb
+obj\Debug\stdent.FormCheckAdmin.resources

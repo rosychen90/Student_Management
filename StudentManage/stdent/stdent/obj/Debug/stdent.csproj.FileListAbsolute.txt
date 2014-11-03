@@ -1,0 +1,10 @@
+C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\stdent\bin\Debug\stdent.exe.config
+C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\stdent\obj\Debug\stdent.exe
+C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\stdent\obj\Debug\stdent.pdb
+C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\stdent\bin\Debug\stdent.exe
+C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\stdent\bin\Debug\stdent.pdb
+C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\stdent\obj\Debug\stdent.FormCheckAdmin.resources
+C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\stdent\obj\Debug\stdent.LoginForm.resources
+C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\stdent\obj\Debug\stdent.ManagerForm.resources
+C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\stdent\obj\Debug\stdent.Properties.Resources.resources
+C:\Users\Rosy\Documents\GitHub\Stdntmanagementsystem\StudentManage\stdent\stdent\obj\Debug\stdent.csproj.GenerateResource.Cache
